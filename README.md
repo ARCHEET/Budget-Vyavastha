@@ -1,5 +1,5 @@
-# expense-tracker
-Expense Tracker is a responsive app designed to help you manage your finances effectively. The app tracks your income, expenses, and balance, keeping a record of your expenditures with an easy-to-use interface. It also includes a search functionality to quickly find specific transactions.
+# Budget Vyavastha
+Budget Vyavastha is a responsive Expense Tracker App designed to help you manage your finances effectively. The app tracks your income, expenses, and balance, keeping a record of your expenditures with an easy-to-use interface. It also includes a search functionality to quickly find specific transactions.
 
 # Demo
 You can see the Expense Tracker in action by visiting the [DEMO](https://expense-tracker-lac-delta.vercel.app/) page.
